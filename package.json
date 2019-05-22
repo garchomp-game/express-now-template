@@ -9,5 +9,9 @@
   },
   "scripts": {
     "start": "node ."
+  },
+  "devDependencies": {
+    "cluster": "^0.7.7",
+    "os": "^0.1.1"
   }
 }
